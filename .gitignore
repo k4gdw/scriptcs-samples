@@ -13,6 +13,8 @@ TestResults
 *.user
 *.sln.docstates
 
+packages.config
+
 # Build results
 [Dd]ebug/
 [Rr]elease/
